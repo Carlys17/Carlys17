@@ -2,7 +2,7 @@
 
 > Blockchain Security Specialist | Smart Contract Auditor | MEV Researcher | DePIN Node Operator
 
-[![Twitter: @carly_sipahutar](https://img.shields.io/badge/Twitter-@carly__sipahutar-1DA1F2?logo=twitter)](https://twitter.com/carly_sipahutar)
+[![Twitter: @carlysipahutar1](https://img.shields.io/badge/Twitter-@carlysipahutar1-1DA1F2?logo=twitter)](https://twitter.com/carlysipahutar1)
 [![DeBank](https://img.shields.io/badge/DeBank-carly17.eth-4D4DFF?logo=ethereum)](https://debank.com/profile/0x1691565c9E5846b348Bf21707521e492614df376)
 [![ENS](https://img.shields.io/badge/ENS-carly17.eth-5298FF?logo=ethereum)](https://app.ens.domains/carly17.eth)
 
@@ -67,7 +67,7 @@
 
 ## 🔗 Connect With Me
 
-- **Twitter**: [@carly_sipahutar](https://twitter.com/carly_sipahutar)
+- **Twitter**: [@carlysipahutar1](https://twitter.com/carlysipahutar1)
 - **ENS**: carly17.eth (0x1691565c9E5846b348Bf21707521e492614df376)
 - **DeBank**: [profile](https://debank.com/profile/0x1691565c9E5846b348Bf21707521e492614df376)
 - **GitHub**: You're here! ⭐ Star my repos if they help you
